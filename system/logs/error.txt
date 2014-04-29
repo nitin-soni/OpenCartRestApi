@@ -1,0 +1,29 @@
+2014-04-03 7:38:25 - PHP Notice:  Undefined variable: rest_api_status in /var/www/opencart/admin/view/template/feed/api.tpl on line 20
+2014-04-03 7:38:25 - PHP Notice:  Undefined variable: rest_api_key in /var/www/opencart/admin/view/template/feed/api.tpl on line 35
+2014-04-03 7:43:02 - PHP Notice:  Error: Could not load template /var/www/opencart/admin/view/template/feed/api.tpl! in /var/www/opencart/system/engine/controller.php on line 90
+2014-04-03 7:43:20 - PHP Notice:  Undefined variable: rest_api_status in /var/www/opencart/admin/view/template/feed/rest.tpl on line 20
+2014-04-03 7:43:20 - PHP Notice:  Undefined variable: rest_api_key in /var/www/opencart/admin/view/template/feed/rest.tpl on line 35
+2014-04-03 7:52:42 - PHP Notice:  Undefined variable: rest_api_status in /var/www/opencart/admin/view/template/feed/rest.tpl on line 20
+2014-04-03 7:52:42 - PHP Notice:  Undefined variable: rest_api_key in /var/www/opencart/admin/view/template/feed/rest.tpl on line 35
+2014-04-03 7:54:04 - PHP Notice:  Undefined variable: rest_api_status in /var/www/opencart/admin/view/template/feed/rest.tpl on line 20
+2014-04-03 7:54:04 - PHP Notice:  Undefined variable: rest_api_key in /var/www/opencart/admin/view/template/feed/rest.tpl on line 35
+2014-04-03 7:54:26 - PHP Notice:  Undefined variable: rest_api_status in /var/www/opencart/admin/view/template/feed/rest.tpl on line 20
+2014-04-03 7:54:26 - PHP Notice:  Undefined variable: rest_api_key in /var/www/opencart/admin/view/template/feed/rest.tpl on line 35
+2014-04-03 7:54:41 - PHP Notice:  Undefined variable: rest_api_status in /var/www/opencart/admin/view/template/feed/rest.tpl on line 20
+2014-04-03 7:54:41 - PHP Notice:  Undefined variable: rest_api_key in /var/www/opencart/admin/view/template/feed/rest.tpl on line 35
+2014-04-03 7:59:08 - PHP Notice:  Undefined variable: text_api_status in /var/www/opencart/admin/view/template/feed/rest.tpl on line 17
+2014-04-03 7:59:08 - PHP Notice:  Undefined variable: text_api_key in /var/www/opencart/admin/view/template/feed/rest.tpl on line 32
+2014-04-03 7:59:48 - PHP Notice:  Undefined variable: text_api_status in /var/www/opencart/admin/view/template/feed/rest.tpl on line 17
+2014-04-03 7:59:48 - PHP Notice:  Undefined variable: text_api_key in /var/www/opencart/admin/view/template/feed/rest.tpl on line 32
+2014-04-03 7:59:54 - PHP Notice:  Undefined variable: text_api_status in /var/www/opencart/admin/view/template/feed/rest.tpl on line 17
+2014-04-03 7:59:54 - PHP Notice:  Undefined variable: text_api_key in /var/www/opencart/admin/view/template/feed/rest.tpl on line 32
+2014-04-03 8:00:28 - PHP Notice:  Undefined variable: text_api_status in /var/www/opencart/admin/view/template/feed/rest.tpl on line 17
+2014-04-03 8:00:28 - PHP Notice:  Undefined variable: text_api_key in /var/www/opencart/admin/view/template/feed/rest.tpl on line 32
+2014-04-03 8:00:59 - PHP Notice:  Undefined variable: text_api_status in /var/www/opencart/admin/view/template/feed/rest.tpl on line 17
+2014-04-03 8:00:59 - PHP Notice:  Undefined variable: text_api_key in /var/www/opencart/admin/view/template/feed/rest.tpl on line 32
+2014-04-03 8:01:47 - PHP Notice:  Undefined variable: api_status_txt in /var/www/opencart/admin/view/template/feed/rest.tpl on line 17
+2014-04-03 8:02:22 - PHP Notice:  Undefined variable: api_status_txt in /var/www/opencart/admin/view/template/feed/rest.tpl on line 17
+2014-04-06 18:55:39 - PHP Notice:  Indirect modification of overloaded property ControllerFeedRest::$error has no effect in /var/www/opencart/admin/controller/feed/rest.php on line 99
+2014-04-06 18:55:39 - PHP Notice:  Undefined variable: language_id in /var/www/opencart/admin/controller/feed/rest.php on line 99
+2014-04-06 18:56:10 - PHP Notice:  Indirect modification of overloaded property ControllerFeedRest::$error has no effect in /var/www/opencart/admin/controller/feed/rest.php on line 99
+2014-04-06 19:23:54 - PHP Notice:  Undefined variable: error_warning in /var/www/opencart/admin/view/template/feed/rest.tpl on line 8
